@@ -1,10 +1,12 @@
 
 
-## Ejercicios de la materia informática 
+## Informática 
 
-Algunos ejercicios de a materia informatica de la UNDAV
+UNDAV-Materia informática
+Algunos ejercicios.
 
 ```
-Ejecutar metodo por metodo para probarlo.
-ejemplo: es_par(3) ---> Devuelve False
+Ejemplo:
+Ejecutar -> es_par(3)
+Devuelve -> False
 ```  
