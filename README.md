@@ -1,6 +1,6 @@
 
 
-## Ejercicios de las materia informática 
+## Ejercicios de la materia informática 
 
 Algunos ejercicios de a materia informatica de la UNDAV
 
