@@ -2,8 +2,7 @@
 
 ## Informática 
 
-UNDAV-Materia informática
-Algunos ejercicios.
+UNDAV-Materia: informática (Algunos ejercicios).
 
 ```
 Ejemplo:
